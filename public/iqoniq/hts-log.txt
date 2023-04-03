@@ -1,0 +1,31 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 28 Feb 2023 13:25:05 at https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/index.html -O1 "C:\My Web Sites\iqoniq" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:25:35	Warning: 	Retry after error -4 (Connect Error) at link https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/index.html (from primary/primary)
+13:41:23	Warning: 	Retry after error -4 (Connect Error) at link https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/extra-images/usa2.jpg (from https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/index.html)
+13:41:23	Warning: 	Retry after error -4 (Connect Error) at link https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/js/scripts.js (from https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/index.html)
+13:41:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/fonts/slick.eot? (from https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/css/slick.css)
+13:41:23	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/extra-images/comingsoon_bg.jpg (from https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/style.css)
+13:41:25	Warning: 	Retry after error -4 (Connect Error) at link https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/images/tick.png (from https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/style.css)
+13:41:30	Warning: 	Retry after error -4 (Connect Error) at link https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/extra-images/team1.jpg (from https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/about-us.html)
+13:41:31	Warning: 	Retry after error -4 (Connect Error) at link https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/extra-images/ourroom2.jpg (from https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/our-rooms.html)
+13:41:31	Warning: 	Retry after error -2 (Receive Time Out) at link https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/extra-images/news_grid7.jpg (from https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/blog-medium-grid3.html)
+13:41:37	Warning: 	Retry after error -2 (Receive Time Out) at link https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/extra-images/news_grid8.jpg (from https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/blog-medium-grid3.html)
+13:41:43	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/extra-images/blog_listing1.jpg (from https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/blog-listing.html)
+13:41:44	Warning: 	Retry after error -4 (Connect Error) at link https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/extra-images/blog_listing2.jpg (from https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/blog-listing.html)
+13:41:45	Warning: 	Retry after error -4 (Connect Error) at link https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/extra-images/blog_listing3.jpg (from https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/blog-listing.html)
+13:41:51	Warning: 	Retry after error -4 (Connect Error) at link https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/extra-images/blog-full.jpg (from https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/blog-full.html)
+13:41:53	Error: 	"Not Found" (404) at link https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/css/slick-theme.css (from https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/404.html)
+13:41:53	Error: 	"Not Found" (404) at link https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/css/svg-icons.css (from https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/404.html)
+13:41:53	Error: 	"Not Found" (404) at link https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/js/isotope.js (from https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/404.html)
+13:41:53	Error: 	"Not Found" (404) at link https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/js/fit-columns.js (from https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/404.html)
+13:41:53	Warning: 	Retry after error -4 (Connect Error) at link https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/extra-images/comingsoon_bg.jpg (from https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/style.css)
+13:41:55	Warning: 	Retry after error -4 (Connect Error) at link https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/extra-images/team1.jpg (from https://iconic-themes.com/html/iqoniqtravel/iqoniq-travel-light/about-us.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 18 minutes 14 seconds : 209 links scanned, 188 files written (22297750 bytes overall) [22347128 bytes received at 20426 bytes/sec], 1.9 requests per connection
+(4 errors, 16 warnings, 0 messages)
